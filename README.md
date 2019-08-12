@@ -16,7 +16,7 @@ you execute the following "docker exec" command
 
 ## docker exec
 ```
-sudo docker exec -it ********* /bin/bash
+docker exec -it ********* /bin/bash
 ```
 
 ## MySQL Login
